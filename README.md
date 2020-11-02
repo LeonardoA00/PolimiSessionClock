@@ -7,3 +7,6 @@ Commands
 - x / F1-12: exit
 - '\b': Erase last activity
 - m: Insert manual activity (Not working)
+
+Logs are saved by default in ./logs
+Please create the directory if it does not exist
